@@ -4,73 +4,77 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
   <loc>https://xn--appletillbehr-tmb.se/</loc>
-  <lastmod>2022-10-05T18:51:28+00:00</lastmod>
+  <lastmod>2022-10-09T07:18:55+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://xn--appletillbehr-tmb.se/index.html</loc>
-  <lastmod>2022-10-05T18:51:28+00:00</lastmod>
+  <lastmod>2022-10-09T07:18:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://xn--appletillbehr-tmb.se/produkter.html</loc>
-  <lastmod>2022-10-05T18:51:28+00:00</lastmod>
+  <lastmod>2022-10-09T07:18:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://xn--appletillbehr-tmb.se/blogg.html</loc>
-  <lastmod>2022-10-05T18:51:28+00:00</lastmod>
+  <lastmod>2022-10-09T07:18:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://xn--appletillbehr-tmb.se/om-oss.html</loc>
-  <lastmod>2022-10-05T18:51:28+00:00</lastmod>
+  <lastmod>2022-10-09T07:18:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xn--appletillbehr-tmb.se/blogs/2022-10-08-apple-watch-funktioner-fordelar.html</loc>
+  <lastmod>2022-10-09T07:18:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://xn--appletillbehr-tmb.se/blogs/2022-10-05-upptack-fyra-airpods-pro.html</loc>
-  <lastmod>2022-10-05T18:51:28+00:00</lastmod>
+  <lastmod>2022-10-09T07:18:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://xn--appletillbehr-tmb.se/blogs/2022-10-04-iphone-14-pro.html</loc>
-  <lastmod>2022-10-05T18:51:28+00:00</lastmod>
+  <lastmod>2022-10-09T07:18:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://xn--appletillbehr-tmb.se/blogs/2022-10-02-magic-keyboard-for-ipad-pro-nyckel-fordelar.html</loc>
-  <lastmod>2022-10-05T18:51:28+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xn--appletillbehr-tmb.se/blogs/2022-09-30-usb-eller-usb-c.html</loc>
-  <lastmod>2022-10-05T18:51:28+00:00</lastmod>
+  <lastmod>2022-10-09T07:18:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://xn--appletillbehr-tmb.se/blogs/2022-09-28-ipad-pro-5th-gen.html</loc>
-  <lastmod>2022-10-05T18:51:28+00:00</lastmod>
+  <lastmod>2022-10-09T07:18:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://xn--appletillbehr-tmb.se/blogs/2022-09-25-varf%C3%B6r-airpods-vart-en-s%C3%A5n-succe.html</loc>
-  <lastmod>2022-10-05T18:51:28+00:00</lastmod>
+  <lastmod>2022-10-09T07:18:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://xn--appletillbehr-tmb.se/terms-and-conditions.html</loc>
-  <lastmod>2022-10-05T18:51:28+00:00</lastmod>
+  <lastmod>2022-10-09T07:18:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://xn--appletillbehr-tmb.se/privacy-policy.html</loc>
-  <lastmod>2022-10-05T18:51:28+00:00</lastmod>
+  <lastmod>2022-10-09T07:18:56+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xn--appletillbehr-tmb.se/blogs/2022-09-30-usb-eller-usb-c.html</loc>
+  <lastmod>2022-10-09T07:18:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
